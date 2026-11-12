@@ -1,0 +1,1 @@
+This repository contains the code for the first task of the Python course. The task involves creating a simple Python program that performs basic operations such as addition, subtraction, multiplication, and division. The program should take user input for two numbers and the desired operation, then output the result.
